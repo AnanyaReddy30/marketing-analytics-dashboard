@@ -215,14 +215,15 @@ Limits: the prompt reduces made-up answers but cannot guarantee none, so the num
 
 ## What I learned
 
-*(Draft. Rewrite this in your own words before publishing.)*
+- **Ratios come from totals, not averages.** ROAS for a campaign is total revenue ÷ total spend. Averaging the daily ROAS values gives a different, wrong number because small days count as much as big ones.
+- **A high CPA is not automatically bad.** LinkedIn has the highest cost per conversion (about ₹4,700), but each conversion brings in about ₹9,000. YouTube's CPA is lower (about ₹2,900) but each conversion is worth only about ₹1,400, so it loses money. CPA only means something next to revenue per conversion.
+- **Compare spend share with revenue share.** YouTube takes 34% of spend and returns 8% of revenue. That one comparison shows a budget problem faster than any single metric.
+- **Trends matter as much as totals.** The YouTube campaign's cost per click rose from about ₹21 to ₹34 over 12 weeks. The total alone hides that it is getting worse.
+- **The best campaign is not always the one to scale.** Retargeting has the highest ROAS, but it targets a small audience of people who already visited, so its returns would likely fall if the budget were multiplied.
+- **An LLM works better with a small prepared table than with raw data.** I calculate the metrics in Python first and send the model a short summary with strict instructions to use only those numbers. Its answers still need checking against the table.
+- **SQL window functions.** I used `LAG()` to compare each week with the one before it.
 
-- Why ratios must be computed from totals, not averaged.
-- A high CPA is not automatically bad: LinkedIn has the highest CPA but each conversion is worth far more than YouTube's.
-- Spend share versus revenue share is a quick way to spot a budget problem.
-- Giving an LLM a small, pre-computed table and strict instructions works better than asking it to do the maths.
-- SQL window functions (`LAG`) for week-over-week change.
-
+All of this is from simulated data that I designed to contain these patterns. Finding them in a real account would be messier.
 ## How this was built
 
 Built as a portfolio project with help from an AI coding assistant (Claude). I can explain every file. There is no real client, account or campaign behind it.
