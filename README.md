@@ -8,12 +8,17 @@ A small marketing analytics project: generate ad campaign data, analyse it with 
 
 *Screenshot taken with no API key set, so the AI panel shows the rule-based fallback, not LLM output.*
 
-## What it does
+## What I learned
 
-- **Data:** 12 weeks of daily rows for 6 campaigns on 4 channels (Google Search, Meta Ads, YouTube, LinkedIn). 504 rows, amounts in INR.
-- **SQL:** loads the CSV into SQLite and runs 7 analysis queries.
-- **Dashboard:** channel and date filters, KPI cards, weekly spend vs revenue, ROAS by campaign with 1× and 3× lines, a funnel, a CPC trend, and a sortable campaign table with Scale / Watch / Fix status.
-- **AI panel:** one button writes a summary and budget recommendation for the filtered data. A question box answers questions using only the data it is given.
+- **Ratios come from totals, not averages.** ROAS for a campaign is total revenue ÷ total spend. Averaging the daily ROAS values gives a different, wrong number because small days count as much as big ones.
+- **A high CPA is not automatically bad.** LinkedIn has the highest cost per conversion (about ₹4,700), but each conversion brings in about ₹9,000. YouTube's CPA is lower (about ₹2,900) but each conversion is worth only about ₹1,400, so it loses money. CPA only means something next to revenue per conversion.
+- **Compare spend share with revenue share.** YouTube takes 34% of spend and returns 8% of revenue. That one comparison shows a budget problem faster than any single metric.
+- **Trends matter as much as totals.** The YouTube campaign's cost per click rose from about ₹21 to ₹34 over 12 weeks. The total alone hides that it is getting worse.
+- **The best campaign is not always the one to scale.** Retargeting has the highest ROAS, but it targets a small audience of people who already visited, so its returns would likely fall if the budget were multiplied.
+- **An LLM works better with a small prepared table than with raw data.** I calculate the metrics in Python first and send the model a short summary with strict instructions to use only those numbers. Its answers still need checking against the table.
+- **SQL window functions.** I used `LAG()` to compare each week with the one before it.
+
+All of this is from simulated data that I designed to contain these patterns. Finding them in a real account would be messier.
 
 ## How to run
 
