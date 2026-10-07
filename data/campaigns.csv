@@ -1,0 +1,505 @@
+date,channel,campaign,impressions,clicks,spend,conversions,revenue
+2026-07-06,Meta Ads,Retargeting - Cart Abandoners,7169,228,2576.18,13,18091.47
+2026-07-06,Meta Ads,Prospecting - Lookalike,40137,481,7089.49,10,15088.91
+2026-07-06,Google Search,Brand Search,2518,209,4026.41,7,9493.17
+2026-07-06,Google Search,Generic Search,10150,350,9790.61,8,14097.0
+2026-07-06,YouTube,Video Awareness,101024,710,14577.83,5,6411.89
+2026-07-06,LinkedIn,B2B Lead Gen,6607,35,5505.31,2,16802.08
+2026-07-07,Meta Ads,Retargeting - Cart Abandoners,6912,211,2558.04,12,20503.51
+2026-07-07,Meta Ads,Prospecting - Lookalike,36569,461,7047.31,12,16009.77
+2026-07-07,Google Search,Brand Search,2355,211,3744.45,12,14970.83
+2026-07-07,Google Search,Generic Search,8378,307,8698.6,7,10805.85
+2026-07-07,YouTube,Video Awareness,114034,722,14696.03,6,8079.34
+2026-07-07,LinkedIn,B2B Lead Gen,7065,34,5282.5,1,9401.88
+2026-07-08,Meta Ads,Retargeting - Cart Abandoners,7693,223,2666.35,12,16421.54
+2026-07-08,Meta Ads,Prospecting - Lookalike,34722,430,6074.11,11,15766.11
+2026-07-08,Google Search,Brand Search,2833,228,3762.34,14,21045.89
+2026-07-08,Google Search,Generic Search,11732,377,10441.6,11,21241.68
+2026-07-08,YouTube,Video Awareness,108916,730,15169.16,6,7164.52
+2026-07-08,LinkedIn,B2B Lead Gen,6560,35,5390.65,1,9372.97
+2026-07-09,Meta Ads,Retargeting - Cart Abandoners,7016,215,2252.62,9,13518.58
+2026-07-09,Meta Ads,Prospecting - Lookalike,35471,431,6901.45,8,10640.79
+2026-07-09,Google Search,Brand Search,2746,207,3526.02,9,14631.96
+2026-07-09,Google Search,Generic Search,7622,275,8187.37,11,21142.22
+2026-07-09,YouTube,Video Awareness,109477,715,14307.14,5,8206.57
+2026-07-09,LinkedIn,B2B Lead Gen,7162,40,5892.29,1,8194.75
+2026-07-10,Meta Ads,Retargeting - Cart Abandoners,7569,227,2660.83,7,12776.38
+2026-07-10,Meta Ads,Prospecting - Lookalike,45056,452,7063.41,11,16944.25
+2026-07-10,Google Search,Brand Search,2733,216,4215.25,17,26118.37
+2026-07-10,Google Search,Generic Search,9871,348,9158.92,14,22394.12
+2026-07-10,YouTube,Video Awareness,115220,651,14441.85,8,11094.43
+2026-07-10,LinkedIn,B2B Lead Gen,6152,36,4945.36,0,0.0
+2026-07-11,Meta Ads,Retargeting - Cart Abandoners,9231,251,3551.07,16,30025.47
+2026-07-11,Meta Ads,Prospecting - Lookalike,40011,510,7571.04,9,12431.38
+2026-07-11,Google Search,Brand Search,2235,175,3105.04,6,9000.08
+2026-07-11,Google Search,Generic Search,7515,261,7515.54,6,11414.97
+2026-07-11,YouTube,Video Awareness,149149,770,16523.03,14,18871.05
+2026-07-11,LinkedIn,B2B Lead Gen,2987,17,2720.28,0,0.0
+2026-07-12,Meta Ads,Retargeting - Cart Abandoners,8808,242,2901.44,21,37556.1
+2026-07-12,Meta Ads,Prospecting - Lookalike,42426,527,8768.83,18,25367.7
+2026-07-12,Google Search,Brand Search,2415,175,3348.93,6,7585.16
+2026-07-12,Google Search,Generic Search,9121,306,8045.77,11,19269.17
+2026-07-12,YouTube,Video Awareness,111131,753,16215.97,6,7920.41
+2026-07-12,LinkedIn,B2B Lead Gen,4319,22,3568.54,1,8222.99
+2026-07-13,Meta Ads,Retargeting - Cart Abandoners,6694,207,2463.12,17,26859.98
+2026-07-13,Meta Ads,Prospecting - Lookalike,49774,558,8037.02,15,21023.99
+2026-07-13,Google Search,Brand Search,2798,239,4531.58,13,22628.3
+2026-07-13,Google Search,Generic Search,7810,302,8588.07,12,20682.01
+2026-07-13,YouTube,Video Awareness,112080,701,15064.19,6,8301.26
+2026-07-13,LinkedIn,B2B Lead Gen,10710,48,6497.71,2,19348.98
+2026-07-14,Meta Ads,Retargeting - Cart Abandoners,6132,200,2428.78,14,20676.42
+2026-07-14,Meta Ads,Prospecting - Lookalike,46802,524,7947.51,8,12100.02
+2026-07-14,Google Search,Brand Search,3441,284,4688.31,15,22205.06
+2026-07-14,Google Search,Generic Search,7386,246,7352.18,11,20784.29
+2026-07-14,YouTube,Video Awareness,111229,686,14536.73,4,5126.43
+2026-07-14,LinkedIn,B2B Lead Gen,7999,41,6199.84,1,7134.31
+2026-07-15,Meta Ads,Retargeting - Cart Abandoners,6485,190,2220.65,13,23781.09
+2026-07-15,Meta Ads,Prospecting - Lookalike,37838,452,7064.06,8,10879.4
+2026-07-15,Google Search,Brand Search,2744,236,4181.59,14,16819.29
+2026-07-15,Google Search,Generic Search,6638,249,7654.45,11,20178.81
+2026-07-15,YouTube,Video Awareness,114117,647,14482.5,8,11347.26
+2026-07-15,LinkedIn,B2B Lead Gen,7620,37,6154.94,0,0.0
+2026-07-16,Meta Ads,Retargeting - Cart Abandoners,7611,240,2613.08,12,14603.02
+2026-07-16,Meta Ads,Prospecting - Lookalike,42384,475,6449.4,12,16374.33
+2026-07-16,Google Search,Brand Search,2936,216,3936.33,11,17135.31
+2026-07-16,Google Search,Generic Search,8083,329,9500.88,11,16372.84
+2026-07-16,YouTube,Video Awareness,95772,590,12755.68,4,5234.37
+2026-07-16,LinkedIn,B2B Lead Gen,9274,41,6329.06,0,0.0
+2026-07-17,Meta Ads,Retargeting - Cart Abandoners,7054,187,2275.08,18,24042.93
+2026-07-17,Meta Ads,Prospecting - Lookalike,35999,414,6103.25,11,16228.57
+2026-07-17,Google Search,Brand Search,2764,196,3586.28,8,12322.7
+2026-07-17,Google Search,Generic Search,8625,289,8442.3,12,21470.0
+2026-07-17,YouTube,Video Awareness,74728,522,11907.83,5,5788.53
+2026-07-17,LinkedIn,B2B Lead Gen,7143,41,6098.63,0,0.0
+2026-07-18,Meta Ads,Retargeting - Cart Abandoners,6955,214,2668.88,12,21528.04
+2026-07-18,Meta Ads,Prospecting - Lookalike,49903,598,8128.01,16,22217.24
+2026-07-18,Google Search,Brand Search,2202,183,2985.97,9,14067.25
+2026-07-18,Google Search,Generic Search,8018,299,8414.04,13,17123.57
+2026-07-18,YouTube,Video Awareness,143873,703,14769.0,4,5022.74
+2026-07-18,LinkedIn,B2B Lead Gen,4338,20,3281.21,0,0.0
+2026-07-19,Meta Ads,Retargeting - Cart Abandoners,7841,235,2933.54,9,14382.6
+2026-07-19,Meta Ads,Prospecting - Lookalike,55814,586,8223.02,15,18853.21
+2026-07-19,Google Search,Brand Search,2828,185,3565.38,8,12658.49
+2026-07-19,Google Search,Generic Search,7730,274,7947.99,4,7607.65
+2026-07-19,YouTube,Video Awareness,121206,733,14456.8,12,17874.57
+2026-07-19,LinkedIn,B2B Lead Gen,3996,21,3446.04,0,0.0
+2026-07-20,Meta Ads,Retargeting - Cart Abandoners,7979,241,2585.2,8,14952.73
+2026-07-20,Meta Ads,Prospecting - Lookalike,40914,501,8210.3,12,17140.7
+2026-07-20,Google Search,Brand Search,2400,193,3562.61,4,6006.87
+2026-07-20,Google Search,Generic Search,9380,323,9223.91,11,17304.8
+2026-07-20,YouTube,Video Awareness,85813,531,12249.56,3,4630.85
+2026-07-20,LinkedIn,B2B Lead Gen,8978,41,6023.35,3,26642.98
+2026-07-21,Meta Ads,Retargeting - Cart Abandoners,6061,185,2188.95,6,9834.34
+2026-07-21,Meta Ads,Prospecting - Lookalike,44115,509,7191.24,8,11556.37
+2026-07-21,Google Search,Brand Search,3290,224,3535.17,16,23717.73
+2026-07-21,Google Search,Generic Search,11659,421,10092.77,14,22896.06
+2026-07-21,YouTube,Video Awareness,103877,607,12945.95,2,3333.42
+2026-07-21,LinkedIn,B2B Lead Gen,7052,35,6021.35,1,11860.97
+2026-07-22,Meta Ads,Retargeting - Cart Abandoners,7300,236,2712.82,18,31416.77
+2026-07-22,Meta Ads,Prospecting - Lookalike,37957,456,7021.76,6,6772.95
+2026-07-22,Google Search,Brand Search,3546,251,4266.63,10,12986.74
+2026-07-22,Google Search,Generic Search,8976,313,8633.75,3,5469.38
+2026-07-22,YouTube,Video Awareness,138343,700,14088.2,9,14168.63
+2026-07-22,LinkedIn,B2B Lead Gen,10188,44,5741.2,2,18069.45
+2026-07-23,Meta Ads,Retargeting - Cart Abandoners,6660,189,2422.06,10,16111.87
+2026-07-23,Meta Ads,Prospecting - Lookalike,34810,431,6246.63,12,16520.85
+2026-07-23,Google Search,Brand Search,3218,266,4752.87,13,19511.73
+2026-07-23,Google Search,Generic Search,7750,307,9403.49,5,8679.87
+2026-07-23,YouTube,Video Awareness,98385,647,15240.95,7,10267.98
+2026-07-23,LinkedIn,B2B Lead Gen,6488,36,5302.54,4,36471.7
+2026-07-24,Meta Ads,Retargeting - Cart Abandoners,6284,188,2249.41,7,11890.83
+2026-07-24,Meta Ads,Prospecting - Lookalike,33919,443,6300.2,13,17321.32
+2026-07-24,Google Search,Brand Search,2415,221,4348.22,14,21740.71
+2026-07-24,Google Search,Generic Search,9500,336,9690.14,10,15760.21
+2026-07-24,YouTube,Video Awareness,93477,561,13419.74,4,4908.5
+2026-07-24,LinkedIn,B2B Lead Gen,10604,46,6865.38,2,17507.07
+2026-07-25,Meta Ads,Retargeting - Cart Abandoners,7528,232,2898.95,20,33971.63
+2026-07-25,Meta Ads,Prospecting - Lookalike,45018,446,6629.32,9,13917.37
+2026-07-25,Google Search,Brand Search,2877,221,4027.55,11,15082.31
+2026-07-25,Google Search,Generic Search,8012,259,7664.49,11,21419.07
+2026-07-25,YouTube,Video Awareness,108949,620,15365.08,4,5489.74
+2026-07-25,LinkedIn,B2B Lead Gen,4354,19,2932.18,0,0.0
+2026-07-26,Meta Ads,Retargeting - Cart Abandoners,8463,242,3395.7,10,16099.07
+2026-07-26,Meta Ads,Prospecting - Lookalike,53763,573,8492.73,19,25863.98
+2026-07-26,Google Search,Brand Search,2197,187,3385.41,10,15779.49
+2026-07-26,Google Search,Generic Search,7723,241,7211.16,9,14747.26
+2026-07-26,YouTube,Video Awareness,121940,758,16666.78,1,1366.98
+2026-07-26,LinkedIn,B2B Lead Gen,3678,21,3239.22,0,0.0
+2026-07-27,Meta Ads,Retargeting - Cart Abandoners,5890,173,1975.64,10,15130.93
+2026-07-27,Meta Ads,Prospecting - Lookalike,35570,443,7010.17,12,14805.72
+2026-07-27,Google Search,Brand Search,3084,217,3854.7,11,20554.75
+2026-07-27,Google Search,Generic Search,11152,379,10621.57,13,21841.69
+2026-07-27,YouTube,Video Awareness,102830,538,12603.01,5,6439.85
+2026-07-27,LinkedIn,B2B Lead Gen,9439,42,6379.71,2,17746.22
+2026-07-28,Meta Ads,Retargeting - Cart Abandoners,7691,226,2882.94,4,7654.71
+2026-07-28,Meta Ads,Prospecting - Lookalike,31805,427,6140.4,6,7801.64
+2026-07-28,Google Search,Brand Search,2173,178,3648.2,6,6975.19
+2026-07-28,Google Search,Generic Search,7311,255,7924.18,9,13582.16
+2026-07-28,YouTube,Video Awareness,83969,517,12342.22,3,4851.79
+2026-07-28,LinkedIn,B2B Lead Gen,8284,47,6766.19,2,17258.13
+2026-07-29,Meta Ads,Retargeting - Cart Abandoners,6550,172,2048.08,8,12182.74
+2026-07-29,Meta Ads,Prospecting - Lookalike,39407,503,7699.54,12,16605.96
+2026-07-29,Google Search,Brand Search,2316,195,3665.58,6,8460.23
+2026-07-29,Google Search,Generic Search,10322,355,10458.06,11,18813.08
+2026-07-29,YouTube,Video Awareness,108869,652,14350.62,6,9110.21
+2026-07-29,LinkedIn,B2B Lead Gen,7493,34,5054.63,2,13416.9
+2026-07-30,Meta Ads,Retargeting - Cart Abandoners,7177,211,2653.57,10,15443.96
+2026-07-30,Meta Ads,Prospecting - Lookalike,34091,387,6174.0,7,9250.46
+2026-07-30,Google Search,Brand Search,2995,244,3991.1,12,15139.98
+2026-07-30,Google Search,Generic Search,9918,295,8888.57,11,17715.04
+2026-07-30,YouTube,Video Awareness,74388,458,12554.64,3,4436.15
+2026-07-30,LinkedIn,B2B Lead Gen,5724,33,5224.87,0,0.0
+2026-07-31,Meta Ads,Retargeting - Cart Abandoners,6872,202,2373.22,9,11904.18
+2026-07-31,Meta Ads,Prospecting - Lookalike,41336,511,7603.4,20,31487.78
+2026-07-31,Google Search,Brand Search,3129,267,4383.84,14,21611.59
+2026-07-31,Google Search,Generic Search,12346,333,10326.25,10,14021.43
+2026-07-31,YouTube,Video Awareness,98933,542,14131.86,4,5858.84
+2026-07-31,LinkedIn,B2B Lead Gen,5342,28,4877.27,3,26125.24
+2026-08-01,Meta Ads,Retargeting - Cart Abandoners,8809,252,2938.78,15,25231.68
+2026-08-01,Meta Ads,Prospecting - Lookalike,44307,465,8048.17,20,25613.96
+2026-08-01,Google Search,Brand Search,2667,230,4402.54,9,13217.3
+2026-08-01,Google Search,Generic Search,7547,268,8416.33,7,9953.8
+2026-08-01,YouTube,Video Awareness,117295,679,16481.49,6,8279.02
+2026-08-01,LinkedIn,B2B Lead Gen,3388,19,3395.71,1,8707.01
+2026-08-02,Meta Ads,Retargeting - Cart Abandoners,9087,264,3152.97,15,29519.01
+2026-08-02,Meta Ads,Prospecting - Lookalike,40670,502,8476.22,12,18460.77
+2026-08-02,Google Search,Brand Search,3043,217,3614.49,8,10251.43
+2026-08-02,Google Search,Generic Search,6729,244,7783.55,8,12761.84
+2026-08-02,YouTube,Video Awareness,123778,679,16063.48,8,11569.92
+2026-08-02,LinkedIn,B2B Lead Gen,4811,20,3230.13,1,9119.11
+2026-08-03,Meta Ads,Retargeting - Cart Abandoners,6314,203,2516.98,9,14702.82
+2026-08-03,Meta Ads,Prospecting - Lookalike,33768,395,6499.59,9,13377.77
+2026-08-03,Google Search,Brand Search,2665,230,4222.14,15,20341.29
+2026-08-03,Google Search,Generic Search,11452,371,9674.3,10,16821.57
+2026-08-03,YouTube,Video Awareness,126718,652,15909.39,4,5274.24
+2026-08-03,LinkedIn,B2B Lead Gen,8634,41,5780.72,0,0.0
+2026-08-04,Meta Ads,Retargeting - Cart Abandoners,7811,227,2702.28,7,9915.55
+2026-08-04,Meta Ads,Prospecting - Lookalike,39602,431,6341.85,9,13896.26
+2026-08-04,Google Search,Brand Search,1928,169,3114.33,7,10021.7
+2026-08-04,Google Search,Generic Search,8460,292,7752.2,11,21239.69
+2026-08-04,YouTube,Video Awareness,99058,584,14711.31,4,5220.28
+2026-08-04,LinkedIn,B2B Lead Gen,8160,35,6319.28,1,9519.66
+2026-08-05,Meta Ads,Retargeting - Cart Abandoners,6093,200,2511.64,15,18373.69
+2026-08-05,Meta Ads,Prospecting - Lookalike,39816,519,8113.32,9,12783.88
+2026-08-05,Google Search,Brand Search,2507,218,3993.18,13,19516.15
+2026-08-05,Google Search,Generic Search,9146,333,8816.6,13,23532.95
+2026-08-05,YouTube,Video Awareness,79592,473,11911.05,7,8264.17
+2026-08-05,LinkedIn,B2B Lead Gen,8489,45,6233.08,4,40289.0
+2026-08-06,Meta Ads,Retargeting - Cart Abandoners,6365,191,2325.95,11,14958.82
+2026-08-06,Meta Ads,Prospecting - Lookalike,32171,424,6282.21,6,7079.08
+2026-08-06,Google Search,Brand Search,2735,197,3447.22,10,14319.84
+2026-08-06,Google Search,Generic Search,8656,299,9233.83,10,14623.93
+2026-08-06,YouTube,Video Awareness,70935,464,13072.22,7,8386.86
+2026-08-06,LinkedIn,B2B Lead Gen,7860,35,5690.09,0,0.0
+2026-08-07,Meta Ads,Retargeting - Cart Abandoners,6409,215,2527.84,15,25610.95
+2026-08-07,Meta Ads,Prospecting - Lookalike,35524,437,6457.74,11,13588.65
+2026-08-07,Google Search,Brand Search,2894,212,3688.96,10,13174.92
+2026-08-07,Google Search,Generic Search,8281,355,9757.91,12,17757.5
+2026-08-07,YouTube,Video Awareness,98330,604,16388.53,5,5294.54
+2026-08-07,LinkedIn,B2B Lead Gen,6016,33,5409.95,2,19827.93
+2026-08-08,Meta Ads,Retargeting - Cart Abandoners,6784,208,2502.5,8,13366.34
+2026-08-08,Meta Ads,Prospecting - Lookalike,45083,545,8144.28,14,21483.04
+2026-08-08,Google Search,Brand Search,2226,182,2896.99,12,19548.95
+2026-08-08,Google Search,Generic Search,9864,339,9362.64,11,20343.64
+2026-08-08,YouTube,Video Awareness,115693,581,13689.23,4,5729.52
+2026-08-08,LinkedIn,B2B Lead Gen,3853,20,3201.22,0,0.0
+2026-08-09,Meta Ads,Retargeting - Cart Abandoners,10094,269,3313.12,15,27390.03
+2026-08-09,Meta Ads,Prospecting - Lookalike,48885,594,9260.24,16,24353.13
+2026-08-09,Google Search,Brand Search,2708,196,3397.75,7,10020.35
+2026-08-09,Google Search,Generic Search,8923,319,8182.17,8,12809.03
+2026-08-09,YouTube,Video Awareness,88865,514,13602.86,4,5946.7
+2026-08-09,LinkedIn,B2B Lead Gen,3755,19,2916.9,3,28490.02
+2026-08-10,Meta Ads,Retargeting - Cart Abandoners,6039,137,1770.71,7,11138.29
+2026-08-10,Meta Ads,Prospecting - Lookalike,37828,417,6165.32,10,12877.73
+2026-08-10,Google Search,Brand Search,2661,192,3490.15,8,9868.32
+2026-08-10,Google Search,Generic Search,8838,284,8411.43,9,15664.73
+2026-08-10,YouTube,Video Awareness,86018,549,13875.94,2,3275.04
+2026-08-10,LinkedIn,B2B Lead Gen,7542,32,5195.79,0,0.0
+2026-08-11,Meta Ads,Retargeting - Cart Abandoners,7537,216,2622.17,9,13268.19
+2026-08-11,Meta Ads,Prospecting - Lookalike,38886,438,6797.09,9,11931.16
+2026-08-11,Google Search,Brand Search,3670,278,4885.66,14,18049.94
+2026-08-11,Google Search,Generic Search,10787,344,10010.41,15,22275.42
+2026-08-11,YouTube,Video Awareness,101416,608,16488.06,6,7736.41
+2026-08-11,LinkedIn,B2B Lead Gen,8731,39,6077.96,1,6658.3
+2026-08-12,Meta Ads,Retargeting - Cart Abandoners,6578,218,2551.35,7,10755.46
+2026-08-12,Meta Ads,Prospecting - Lookalike,38248,442,7079.62,10,14143.16
+2026-08-12,Google Search,Brand Search,2605,188,3550.82,11,17126.48
+2026-08-12,Google Search,Generic Search,7983,301,8721.88,4,5455.13
+2026-08-12,YouTube,Video Awareness,96049,517,13633.81,4,5816.75
+2026-08-12,LinkedIn,B2B Lead Gen,6285,34,5307.8,2,16867.18
+2026-08-13,Meta Ads,Retargeting - Cart Abandoners,6823,215,2616.95,16,25842.16
+2026-08-13,Meta Ads,Prospecting - Lookalike,41593,467,7549.28,13,16900.85
+2026-08-13,Google Search,Brand Search,3167,243,4308.75,13,17943.6
+2026-08-13,Google Search,Generic Search,8408,306,9190.25,11,18647.61
+2026-08-13,YouTube,Video Awareness,82976,477,14270.45,7,10043.96
+2026-08-13,LinkedIn,B2B Lead Gen,7449,41,6507.78,2,18709.63
+2026-08-14,Meta Ads,Retargeting - Cart Abandoners,7246,201,2320.13,13,21064.91
+2026-08-14,Meta Ads,Prospecting - Lookalike,38794,434,6955.54,10,15821.62
+2026-08-14,Google Search,Brand Search,2591,228,4253.37,19,26075.16
+2026-08-14,Google Search,Generic Search,8799,278,8030.18,6,10439.12
+2026-08-14,YouTube,Video Awareness,88294,456,11392.52,3,4430.57
+2026-08-14,LinkedIn,B2B Lead Gen,9564,44,6435.66,1,7329.32
+2026-08-15,Meta Ads,Retargeting - Cart Abandoners,8309,245,2945.91,13,20432.13
+2026-08-15,Meta Ads,Prospecting - Lookalike,40804,532,8476.27,14,20457.81
+2026-08-15,Google Search,Brand Search,2551,217,3819.9,14,21316.94
+2026-08-15,Google Search,Generic Search,7211,258,8569.22,5,8466.77
+2026-08-15,YouTube,Video Awareness,107625,630,15954.79,6,7774.52
+2026-08-15,LinkedIn,B2B Lead Gen,4143,19,3281.95,1,6856.86
+2026-08-16,Meta Ads,Retargeting - Cart Abandoners,9611,296,3310.14,17,28698.51
+2026-08-16,Meta Ads,Prospecting - Lookalike,36018,437,6403.08,8,12084.09
+2026-08-16,Google Search,Brand Search,3138,214,3819.04,4,6076.12
+2026-08-16,Google Search,Generic Search,5138,207,5618.34,7,12730.01
+2026-08-16,YouTube,Video Awareness,132215,693,19766.66,5,8800.76
+2026-08-16,LinkedIn,B2B Lead Gen,4100,20,3052.5,0,0.0
+2026-08-17,Meta Ads,Retargeting - Cart Abandoners,4986,154,1809.33,9,14927.52
+2026-08-17,Meta Ads,Prospecting - Lookalike,30470,431,6798.2,9,13859.59
+2026-08-17,Google Search,Brand Search,2718,222,3639.16,5,7357.45
+2026-08-17,Google Search,Generic Search,6573,245,7150.71,10,17255.14
+2026-08-17,YouTube,Video Awareness,73583,497,14453.59,5,7783.58
+2026-08-17,LinkedIn,B2B Lead Gen,7336,39,5767.33,0,0.0
+2026-08-18,Meta Ads,Retargeting - Cart Abandoners,6415,187,2471.31,16,21350.69
+2026-08-18,Meta Ads,Prospecting - Lookalike,45468,495,7216.16,12,16050.6
+2026-08-18,Google Search,Brand Search,3164,239,4392.08,13,17811.42
+2026-08-18,Google Search,Generic Search,7351,250,7517.25,10,13043.93
+2026-08-18,YouTube,Video Awareness,63019,425,11394.33,1,1558.73
+2026-08-18,LinkedIn,B2B Lead Gen,9612,48,7264.13,1,9924.82
+2026-08-19,Meta Ads,Retargeting - Cart Abandoners,6288,185,2245.42,10,17310.95
+2026-08-19,Meta Ads,Prospecting - Lookalike,50690,586,8822.54,10,14757.58
+2026-08-19,Google Search,Brand Search,2581,208,3668.97,10,12236.42
+2026-08-19,Google Search,Generic Search,8492,266,7275.06,6,10216.45
+2026-08-19,YouTube,Video Awareness,81204,500,13354.56,6,9925.88
+2026-08-19,LinkedIn,B2B Lead Gen,7020,35,5471.26,0,0.0
+2026-08-20,Meta Ads,Retargeting - Cart Abandoners,6004,200,2526.78,7,11197.48
+2026-08-20,Meta Ads,Prospecting - Lookalike,40203,512,7570.72,9,15385.41
+2026-08-20,Google Search,Brand Search,3294,252,3951.17,15,23060.06
+2026-08-20,Google Search,Generic Search,8487,326,9907.8,12,21131.94
+2026-08-20,YouTube,Video Awareness,98576,563,15267.36,3,3953.66
+2026-08-20,LinkedIn,B2B Lead Gen,6702,35,6006.59,3,28467.45
+2026-08-21,Meta Ads,Retargeting - Cart Abandoners,6600,228,2446.55,8,12324.59
+2026-08-21,Meta Ads,Prospecting - Lookalike,39687,520,7757.65,10,14203.72
+2026-08-21,Google Search,Brand Search,2753,205,3930.01,5,7973.43
+2026-08-21,Google Search,Generic Search,9119,311,9432.22,8,13010.27
+2026-08-21,YouTube,Video Awareness,67038,390,11080.96,7,10910.9
+2026-08-21,LinkedIn,B2B Lead Gen,6569,34,5435.08,1,11045.69
+2026-08-22,Meta Ads,Retargeting - Cart Abandoners,8016,244,3191.98,16,23511.48
+2026-08-22,Meta Ads,Prospecting - Lookalike,34315,457,7590.43,9,12490.43
+2026-08-22,Google Search,Brand Search,2327,201,3722.33,16,24491.3
+2026-08-22,Google Search,Generic Search,10024,323,9054.95,12,19003.51
+2026-08-22,YouTube,Video Awareness,80472,491,15000.22,5,7063.11
+2026-08-22,LinkedIn,B2B Lead Gen,3798,19,2974.54,2,20173.37
+2026-08-23,Meta Ads,Retargeting - Cart Abandoners,7722,244,2901.24,17,26960.89
+2026-08-23,Meta Ads,Prospecting - Lookalike,38912,521,7585.71,19,25233.73
+2026-08-23,Google Search,Brand Search,2444,179,3704.83,6,8144.52
+2026-08-23,Google Search,Generic Search,8111,261,7954.25,7,11119.67
+2026-08-23,YouTube,Video Awareness,97626,564,17212.61,5,7317.8
+2026-08-23,LinkedIn,B2B Lead Gen,4445,24,3706.85,1,9127.05
+2026-08-24,Meta Ads,Retargeting - Cart Abandoners,5258,174,2060.88,12,20803.92
+2026-08-24,Meta Ads,Prospecting - Lookalike,42262,500,7830.3,16,22232.52
+2026-08-24,Google Search,Brand Search,2461,198,3543.92,6,9161.68
+2026-08-24,Google Search,Generic Search,8993,292,8473.16,13,23531.14
+2026-08-24,YouTube,Video Awareness,78281,508,12835.87,3,4514.9
+2026-08-24,LinkedIn,B2B Lead Gen,9420,41,6234.9,1,7922.17
+2026-08-25,Meta Ads,Retargeting - Cart Abandoners,6823,217,2659.69,10,14889.53
+2026-08-25,Meta Ads,Prospecting - Lookalike,26186,335,5725.05,7,9345.48
+2026-08-25,Google Search,Brand Search,2755,247,4186.2,9,14939.07
+2026-08-25,Google Search,Generic Search,8935,313,9346.29,9,14612.29
+2026-08-25,YouTube,Video Awareness,101016,568,16071.43,7,9545.58
+2026-08-25,LinkedIn,B2B Lead Gen,8681,40,6581.88,1,10553.52
+2026-08-26,Meta Ads,Retargeting - Cart Abandoners,6180,165,2021.11,4,6057.44
+2026-08-26,Meta Ads,Prospecting - Lookalike,29003,369,5976.28,5,6918.61
+2026-08-26,Google Search,Brand Search,3388,235,4736.86,23,31064.87
+2026-08-26,Google Search,Generic Search,8727,319,9443.94,9,16976.98
+2026-08-26,YouTube,Video Awareness,87308,496,14812.55,5,8001.64
+2026-08-26,LinkedIn,B2B Lead Gen,9205,43,6821.08,1,9113.55
+2026-08-27,Meta Ads,Retargeting - Cart Abandoners,8007,212,2415.1,12,25074.3
+2026-08-27,Meta Ads,Prospecting - Lookalike,34908,436,6239.75,7,7602.03
+2026-08-27,Google Search,Brand Search,2664,199,3471.12,12,17830.77
+2026-08-27,Google Search,Generic Search,9300,294,8403.14,9,17048.16
+2026-08-27,YouTube,Video Awareness,83851,525,14028.05,5,8103.14
+2026-08-27,LinkedIn,B2B Lead Gen,8947,48,7098.57,1,7854.34
+2026-08-28,Meta Ads,Retargeting - Cart Abandoners,6312,203,2338.89,11,15223.26
+2026-08-28,Meta Ads,Prospecting - Lookalike,35683,458,6781.85,11,12678.88
+2026-08-28,Google Search,Brand Search,3457,260,4568.65,8,12029.34
+2026-08-28,Google Search,Generic Search,8278,295,8735.94,10,17903.08
+2026-08-28,YouTube,Video Awareness,69632,483,14159.32,3,4211.9
+2026-08-28,LinkedIn,B2B Lead Gen,6346,30,5040.03,1,9925.25
+2026-08-29,Meta Ads,Retargeting - Cart Abandoners,8706,249,2984.01,18,26541.34
+2026-08-29,Meta Ads,Prospecting - Lookalike,39063,555,8294.96,20,27452.26
+2026-08-29,Google Search,Brand Search,2877,222,3693.34,9,11866.43
+2026-08-29,Google Search,Generic Search,9364,319,9988.13,14,22451.22
+2026-08-29,YouTube,Video Awareness,78780,487,15084.15,6,8256.86
+2026-08-29,LinkedIn,B2B Lead Gen,4487,20,3304.37,2,19029.35
+2026-08-30,Meta Ads,Retargeting - Cart Abandoners,6560,214,2631.15,20,31693.17
+2026-08-30,Meta Ads,Prospecting - Lookalike,37700,498,7698.73,15,19966.28
+2026-08-30,Google Search,Brand Search,2502,208,3672.31,8,11469.97
+2026-08-30,Google Search,Generic Search,7884,269,7715.64,7,14371.29
+2026-08-30,YouTube,Video Awareness,78364,478,14739.03,4,4633.8
+2026-08-30,LinkedIn,B2B Lead Gen,3531,17,2884.59,0,0.0
+2026-08-31,Meta Ads,Retargeting - Cart Abandoners,6388,203,2369.4,6,10788.63
+2026-08-31,Meta Ads,Prospecting - Lookalike,35386,398,6534.46,10,14062.52
+2026-08-31,Google Search,Brand Search,3304,237,4303.34,8,13458.58
+2026-08-31,Google Search,Generic Search,9328,334,10454.38,8,13391.61
+2026-08-31,YouTube,Video Awareness,76459,471,12846.22,3,4433.78
+2026-08-31,LinkedIn,B2B Lead Gen,7856,37,5974.39,3,25316.27
+2026-09-01,Meta Ads,Retargeting - Cart Abandoners,6386,211,2368.37,11,22935.9
+2026-09-01,Meta Ads,Prospecting - Lookalike,37355,434,6840.73,11,14994.25
+2026-09-01,Google Search,Brand Search,2485,198,3417.21,13,16065.49
+2026-09-01,Google Search,Generic Search,8787,323,9776.78,5,8980.18
+2026-09-01,YouTube,Video Awareness,99474,550,14966.13,3,3854.83
+2026-09-01,LinkedIn,B2B Lead Gen,8276,41,6051.75,4,33934.79
+2026-09-02,Meta Ads,Retargeting - Cart Abandoners,7228,236,2790.87,7,11737.25
+2026-09-02,Meta Ads,Prospecting - Lookalike,38174,438,7224.31,13,18664.25
+2026-09-02,Google Search,Brand Search,2776,221,3763.21,3,4298.01
+2026-09-02,Google Search,Generic Search,9856,369,10358.88,18,33957.82
+2026-09-02,YouTube,Video Awareness,87750,478,15037.79,1,1436.34
+2026-09-02,LinkedIn,B2B Lead Gen,7400,38,6154.95,3,30103.32
+2026-09-03,Meta Ads,Retargeting - Cart Abandoners,6992,226,2488.82,9,13467.66
+2026-09-03,Meta Ads,Prospecting - Lookalike,47361,553,8151.01,17,24586.64
+2026-09-03,Google Search,Brand Search,3210,265,4644.76,8,11624.35
+2026-09-03,Google Search,Generic Search,7568,258,8263.35,3,5590.16
+2026-09-03,YouTube,Video Awareness,66458,386,11046.07,4,6165.1
+2026-09-03,LinkedIn,B2B Lead Gen,6408,31,5184.67,2,17109.45
+2026-09-04,Meta Ads,Retargeting - Cart Abandoners,7208,227,2638.49,7,10705.65
+2026-09-04,Meta Ads,Prospecting - Lookalike,31618,442,7106.08,14,18286.81
+2026-09-04,Google Search,Brand Search,3384,236,4454.11,14,22635.54
+2026-09-04,Google Search,Generic Search,8761,321,9819.09,10,16941.05
+2026-09-04,YouTube,Video Awareness,64045,386,11360.2,1,1468.32
+2026-09-04,LinkedIn,B2B Lead Gen,7817,38,5352.63,0,0.0
+2026-09-05,Meta Ads,Retargeting - Cart Abandoners,10019,295,3234.64,16,26980.62
+2026-09-05,Meta Ads,Prospecting - Lookalike,39343,488,7629.68,17,22978.53
+2026-09-05,Google Search,Brand Search,1970,151,2626.63,2,2322.24
+2026-09-05,Google Search,Generic Search,8003,291,8274.56,9,14369.38
+2026-09-05,YouTube,Video Awareness,103670,574,17106.59,5,7298.29
+2026-09-05,LinkedIn,B2B Lead Gen,4794,21,3292.27,0,0.0
+2026-09-06,Meta Ads,Retargeting - Cart Abandoners,7894,217,2482.02,14,20375.31
+2026-09-06,Meta Ads,Prospecting - Lookalike,51277,591,8181.41,23,29903.99
+2026-09-06,Google Search,Brand Search,3374,243,3978.67,13,18784.96
+2026-09-06,Google Search,Generic Search,8742,305,9453.61,10,16803.93
+2026-09-06,YouTube,Video Awareness,84479,621,17813.54,13,21703.52
+2026-09-06,LinkedIn,B2B Lead Gen,4974,25,3954.15,0,0.0
+2026-09-07,Meta Ads,Retargeting - Cart Abandoners,6368,206,2417.77,3,4040.97
+2026-09-07,Meta Ads,Prospecting - Lookalike,33957,431,7492.93,10,16889.45
+2026-09-07,Google Search,Brand Search,3187,284,4544.98,15,21817.8
+2026-09-07,Google Search,Generic Search,10212,320,9985.97,16,26593.92
+2026-09-07,YouTube,Video Awareness,88186,508,15593.14,8,9842.15
+2026-09-07,LinkedIn,B2B Lead Gen,6867,35,5426.81,1,9903.13
+2026-09-08,Meta Ads,Retargeting - Cart Abandoners,7445,234,2769.83,11,18719.08
+2026-09-08,Meta Ads,Prospecting - Lookalike,28861,392,6166.66,8,11056.24
+2026-09-08,Google Search,Brand Search,2824,234,4142.7,7,11189.66
+2026-09-08,Google Search,Generic Search,8087,276,8345.37,10,17801.13
+2026-09-08,YouTube,Video Awareness,63707,372,12129.99,7,11373.37
+2026-09-08,LinkedIn,B2B Lead Gen,8417,44,6629.37,1,9930.43
+2026-09-09,Meta Ads,Retargeting - Cart Abandoners,5545,163,2073.98,4,6472.56
+2026-09-09,Meta Ads,Prospecting - Lookalike,29716,396,6120.76,6,8705.14
+2026-09-09,Google Search,Brand Search,3360,228,3971.04,13,20757.78
+2026-09-09,Google Search,Generic Search,10250,357,10849.09,12,18311.76
+2026-09-09,YouTube,Video Awareness,84358,484,14284.49,4,6995.93
+2026-09-09,LinkedIn,B2B Lead Gen,8857,38,5743.47,0,0.0
+2026-09-10,Meta Ads,Retargeting - Cart Abandoners,8418,282,3104.45,13,17372.62
+2026-09-10,Meta Ads,Prospecting - Lookalike,41044,491,8027.66,10,13188.78
+2026-09-10,Google Search,Brand Search,2783,238,3814.62,14,21731.23
+2026-09-10,Google Search,Generic Search,8543,284,8761.01,25,48311.46
+2026-09-10,YouTube,Video Awareness,67938,416,14072.31,2,2897.42
+2026-09-10,LinkedIn,B2B Lead Gen,7116,33,5860.29,0,0.0
+2026-09-11,Meta Ads,Retargeting - Cart Abandoners,7218,222,2600.61,11,17616.81
+2026-09-11,Meta Ads,Prospecting - Lookalike,36681,445,6229.6,7,9126.8
+2026-09-11,Google Search,Brand Search,2775,232,4031.87,20,26361.84
+2026-09-11,Google Search,Generic Search,6884,267,9384.73,10,15484.4
+2026-09-11,YouTube,Video Awareness,69431,434,12962.57,1,1483.57
+2026-09-11,LinkedIn,B2B Lead Gen,7324,38,5914.78,1,9072.55
+2026-09-12,Meta Ads,Retargeting - Cart Abandoners,7630,243,2765.46,16,27382.81
+2026-09-12,Meta Ads,Prospecting - Lookalike,46793,557,9185.49,15,22327.99
+2026-09-12,Google Search,Brand Search,2682,202,3701.55,11,17542.48
+2026-09-12,Google Search,Generic Search,11505,349,10367.75,8,15367.11
+2026-09-12,YouTube,Video Awareness,87242,516,15645.93,9,13556.83
+2026-09-12,LinkedIn,B2B Lead Gen,4221,21,3400.01,0,0.0
+2026-09-13,Meta Ads,Retargeting - Cart Abandoners,7767,247,3133.84,8,13338.06
+2026-09-13,Meta Ads,Prospecting - Lookalike,47923,532,8858.71,12,16680.44
+2026-09-13,Google Search,Brand Search,2318,158,2921.13,5,8835.92
+2026-09-13,Google Search,Generic Search,6635,261,7700.78,9,14154.41
+2026-09-13,YouTube,Video Awareness,75404,488,15744.74,4,5749.82
+2026-09-13,LinkedIn,B2B Lead Gen,4284,21,3199.39,0,0.0
+2026-09-14,Meta Ads,Retargeting - Cart Abandoners,6340,193,2317.0,13,20430.12
+2026-09-14,Meta Ads,Prospecting - Lookalike,30968,380,6457.66,8,8585.72
+2026-09-14,Google Search,Brand Search,2209,189,3962.41,6,7965.76
+2026-09-14,Google Search,Generic Search,8419,304,9009.3,10,15255.12
+2026-09-14,YouTube,Video Awareness,83732,451,13313.81,3,3653.23
+2026-09-14,LinkedIn,B2B Lead Gen,7190,40,6177.83,0,0.0
+2026-09-15,Meta Ads,Retargeting - Cart Abandoners,6908,191,2311.09,7,9409.68
+2026-09-15,Meta Ads,Prospecting - Lookalike,30555,348,6042.31,4,4693.79
+2026-09-15,Google Search,Brand Search,4161,305,4978.53,18,30652.0
+2026-09-15,Google Search,Generic Search,12075,378,11180.2,12,19754.61
+2026-09-15,YouTube,Video Awareness,65108,403,13088.19,2,2986.43
+2026-09-15,LinkedIn,B2B Lead Gen,6771,36,6007.51,1,8320.01
+2026-09-16,Meta Ads,Retargeting - Cart Abandoners,5771,178,2235.93,13,23520.46
+2026-09-16,Meta Ads,Prospecting - Lookalike,30096,360,5620.99,10,15833.34
+2026-09-16,Google Search,Brand Search,3165,244,4536.1,11,14858.62
+2026-09-16,Google Search,Generic Search,8566,275,8060.03,9,15800.94
+2026-09-16,YouTube,Video Awareness,81033,433,13642.1,3,4702.58
+2026-09-16,LinkedIn,B2B Lead Gen,7413,34,5455.16,2,16778.18
+2026-09-17,Meta Ads,Retargeting - Cart Abandoners,8157,232,2752.92,8,13945.88
+2026-09-17,Meta Ads,Prospecting - Lookalike,30211,404,7191.32,13,18209.44
+2026-09-17,Google Search,Brand Search,3098,221,4078.15,15,20329.34
+2026-09-17,Google Search,Generic Search,7704,266,8420.56,12,20336.04
+2026-09-17,YouTube,Video Awareness,66291,393,11979.17,2,2817.08
+2026-09-17,LinkedIn,B2B Lead Gen,7946,41,6533.65,2,19558.47
+2026-09-18,Meta Ads,Retargeting - Cart Abandoners,7223,215,2678.37,16,23930.69
+2026-09-18,Meta Ads,Prospecting - Lookalike,33390,414,6560.11,7,8608.52
+2026-09-18,Google Search,Brand Search,3133,241,3670.15,15,24992.27
+2026-09-18,Google Search,Generic Search,9392,319,9774.56,12,18730.73
+2026-09-18,YouTube,Video Awareness,57527,366,11597.25,1,1292.85
+2026-09-18,LinkedIn,B2B Lead Gen,7451,32,5289.02,2,17604.61
+2026-09-19,Meta Ads,Retargeting - Cart Abandoners,9277,261,3169.48,10,17241.2
+2026-09-19,Meta Ads,Prospecting - Lookalike,28113,377,6368.36,8,10408.86
+2026-09-19,Google Search,Brand Search,2267,192,3335.91,5,7339.61
+2026-09-19,Google Search,Generic Search,6848,225,7308.43,6,10511.43
+2026-09-19,YouTube,Video Awareness,65505,402,15864.76,7,11225.43
+2026-09-19,LinkedIn,B2B Lead Gen,4655,22,3424.1,0,0.0
+2026-09-20,Meta Ads,Retargeting - Cart Abandoners,8554,266,3401.46,22,31195.67
+2026-09-20,Meta Ads,Prospecting - Lookalike,38691,483,7539.62,16,22564.99
+2026-09-20,Google Search,Brand Search,2567,197,3331.37,5,6437.24
+2026-09-20,Google Search,Generic Search,9091,328,10008.22,7,13420.26
+2026-09-20,YouTube,Video Awareness,84594,441,14742.56,7,9808.67
+2026-09-20,LinkedIn,B2B Lead Gen,4318,21,3592.94,0,0.0
+2026-09-21,Meta Ads,Retargeting - Cart Abandoners,7438,221,2638.47,10,16868.02
+2026-09-21,Meta Ads,Prospecting - Lookalike,56181,637,9289.72,15,25095.29
+2026-09-21,Google Search,Brand Search,2241,196,3732.65,5,7669.58
+2026-09-21,Google Search,Generic Search,8008,281,8929.14,10,16544.89
+2026-09-21,YouTube,Video Awareness,76976,394,13393.2,4,5393.11
+2026-09-21,LinkedIn,B2B Lead Gen,7479,36,6175.09,2,16561.19
+2026-09-22,Meta Ads,Retargeting - Cart Abandoners,6800,201,2585.66,6,9978.82
+2026-09-22,Meta Ads,Prospecting - Lookalike,44287,515,8290.88,9,14374.65
+2026-09-22,Google Search,Brand Search,2051,158,2984.32,9,13600.95
+2026-09-22,Google Search,Generic Search,9380,311,9405.98,9,15814.46
+2026-09-22,YouTube,Video Awareness,52341,315,10670.72,2,2791.97
+2026-09-22,LinkedIn,B2B Lead Gen,7526,36,5968.43,1,8355.73
+2026-09-23,Meta Ads,Retargeting - Cart Abandoners,7628,231,2525.04,9,15904.89
+2026-09-23,Meta Ads,Prospecting - Lookalike,43787,451,7330.41,10,15570.5
+2026-09-23,Google Search,Brand Search,2970,227,3967.56,13,17261.59
+2026-09-23,Google Search,Generic Search,10085,324,9080.04,14,22936.99
+2026-09-23,YouTube,Video Awareness,58192,359,13372.99,1,1316.51
+2026-09-23,LinkedIn,B2B Lead Gen,5406,28,4688.16,0,0.0
+2026-09-24,Meta Ads,Retargeting - Cart Abandoners,8606,246,2684.04,13,22621.36
+2026-09-24,Meta Ads,Prospecting - Lookalike,32089,381,5458.12,11,15680.88
+2026-09-24,Google Search,Brand Search,3603,267,4512.38,15,22390.91
+2026-09-24,Google Search,Generic Search,7398,291,8580.97,9,15047.79
+2026-09-24,YouTube,Video Awareness,57728,355,12786.41,6,9011.13
+2026-09-24,LinkedIn,B2B Lead Gen,8528,42,6102.39,2,18951.89
+2026-09-25,Meta Ads,Retargeting - Cart Abandoners,6024,193,2594.49,9,15010.92
+2026-09-25,Meta Ads,Prospecting - Lookalike,34231,411,7013.53,9,13080.93
+2026-09-25,Google Search,Brand Search,2721,207,3978.65,11,16480.15
+2026-09-25,Google Search,Generic Search,7550,247,8716.56,5,8719.04
+2026-09-25,YouTube,Video Awareness,60935,377,13276.73,6,7517.65
+2026-09-25,LinkedIn,B2B Lead Gen,7012,40,6256.58,1,8127.16
+2026-09-26,Meta Ads,Retargeting - Cart Abandoners,9739,281,3097.04,19,33700.25
+2026-09-26,Meta Ads,Prospecting - Lookalike,39021,442,7301.56,16,20141.97
+2026-09-26,Google Search,Brand Search,2234,175,3269.85,8,10732.51
+2026-09-26,Google Search,Generic Search,7753,273,8357.87,6,10495.94
+2026-09-26,YouTube,Video Awareness,102730,616,18988.71,5,7190.63
+2026-09-26,LinkedIn,B2B Lead Gen,3444,18,2688.58,0,0.0
+2026-09-27,Meta Ads,Retargeting - Cart Abandoners,9916,278,3372.85,18,26817.26
+2026-09-27,Meta Ads,Prospecting - Lookalike,36803,499,8701.02,14,21151.34
+2026-09-27,Google Search,Brand Search,2231,168,3147.49,4,6107.34
+2026-09-27,Google Search,Generic Search,7835,272,8620.14,12,20703.41
+2026-09-27,YouTube,Video Awareness,87397,544,18173.79,5,8082.13
+2026-09-27,LinkedIn,B2B Lead Gen,3960,21,3379.22,0,0.0

@@ -1,0 +1,9 @@
+# Rebuilt automatically from data/campaigns.csv
+data/marketing.db
+# Never commit API keys
+.env
+.streamlit/secrets.toml
+__pycache__/
+.venv/
+venv/
+.DS_Store
